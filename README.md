@@ -1,4 +1,4 @@
-# Blogicum
+# Business card website
 ## О проекте
 Проект "web_site" - это Сайт Визитка.
 ## Установка
